@@ -9,7 +9,7 @@ import org.lwjgl.system.MemoryUtil;
 import java.nio.FloatBuffer;
 import java.nio.IntBuffer;
 
-public class Square {
+public class Game {
     private float x;
     private float y;
     private float z;
